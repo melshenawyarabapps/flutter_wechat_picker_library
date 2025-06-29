@@ -16,7 +16,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  photo_manager: ^3.0.0
+  photo_manager:
+    git: https://github.com/melshenawyarabapps/flutter_photo_manager.git
 
 dev_dependencies:
   flutter_lints: any
